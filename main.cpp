@@ -12,5 +12,9 @@ int main ()
 {
   RepeatAlphabet rA;
   rA.RepeatedAlphabet();
+  // Day 1
+  CheckSumNumber csn{};
+  csn.checkInside();
+  
   return 0;
 }
